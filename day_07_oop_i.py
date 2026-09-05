@@ -34,14 +34,16 @@ class Habit:
     def __str__(self):
         return f"Habit {self.name}: {self.completions}/{self.goal}"
 
-coding = Habit("Python", 2)
-reading = Habit("Reading", 1)
 
-assert coding.is_done() is False
-coding.complete()
-coding.complete()
-assert coding.is_done() is True
-assert coding.completions == 2
-assert reading.completions == 0
+if __name__ == "__main__":
+    coding = Habit("Python", 2)
+    reading = Habit("Reading", 1)
 
-print(coding.progress())
+    assert coding.is_done() is False
+    coding.complete()
+    coding.complete()
+    assert coding.is_done() is True
+    assert coding.completions == 2
+    assert reading.completions == 0
+
+    print(coding.progress())

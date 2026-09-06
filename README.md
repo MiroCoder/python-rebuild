@@ -4,6 +4,14 @@ A hands-on rebuild of my Python core before moving into Django/backend work.
 
 **Rule:** CODE BY HAND FIRST.
 
+## Status
+
+- Days 1–10 completed
+- Python Core mini-exam in progress
+- Completed/corrected exam tasks: 1–12 and 14
+- Task 13: edge case still pending
+- Task 15: pending
+
 ## Roadmap
 
 1. Lists + Dicts

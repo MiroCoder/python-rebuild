@@ -7,10 +7,10 @@ A hands-on rebuild of my Python core before moving into Django/backend work.
 ## Status
 
 - Days 1–10 completed
-- Python Core mini-exam in progress
-- Completed/corrected exam tasks: 1–12 and 14
-- Task 13: edge case still pending
-- Task 15: pending
+- Python Core restored after mini-exam + targeted weak-area review
+- Day 11 — Django Structure completed
+- Day 12 — Models + ORM completed
+- Next: Day 13 — migrations + relationships
 
 ## Roadmap
 

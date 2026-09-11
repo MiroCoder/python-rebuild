@@ -10,7 +10,10 @@ A hands-on rebuild of my Python core before moving into Django/backend work.
 - Python Core restored after mini-exam + targeted weak-area review
 - Day 11 — Django Structure completed
 - Day 12 — Models + ORM completed
-- Next: Day 13 — migrations + relationships
+- Day 13 — Migrations + Relationships completed
+- Day 14 — Django API mini-project completed
+- Manual Django CRUD completed: GET / POST / PATCH / DELETE
+- Next: Django REST Framework
 
 ## Roadmap
 
